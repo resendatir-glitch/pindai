@@ -6,7 +6,7 @@ Aplikasi pemindai dokumen sederhana. Tidak ada foto yang dikirim ke internet, da
 
 ## Cara pasang di HP
 
-1. Buka link tadi di **Chrome** (Android) atau **Safari** (iPhone) saat ada internet.
+1. Buka di **Chrome** (Android) atau **Safari** (iPhone).
 2. Android: menu ⋮ → **Tambahkan ke layar utama** / **Instal aplikasi**.
    iPhone: tombol Bagikan → **Tambahkan ke Layar Utama**.
 3. Setelah itu aplikasinya bisa dibuka dari ikon, termasuk saat offline.
