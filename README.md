@@ -15,3 +15,6 @@ Aplikasi pemindai dokumen sederhana. Tidak ada foto yang dikirim ke internet, da
 
 - Halaman yang sudah dipindai tidak tersimpan permanen. Simpan PDF dulu sebelum menutup aplikasi.
 - Teks di PDF belum bisa dicari atau disalin (belum ada OCR).
+
+ Pencet link di bawah misalnya masih belum ada muncul
+ https://resendatir-glitch.github.io/pindai/
